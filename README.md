@@ -1,7 +1,7 @@
 # Functional Requirements (FR) [What to do | Objective Actions, Desires, Solicitations]:
 
 [x] The user should be able to create an account.
-[ ] The user should be able to get an account statement.
+[x] The user should be able to get an account statement.
 [x] The user should be able to list all transactions that have occurred.
 [x] The user should be able to view a single transaction.
 
